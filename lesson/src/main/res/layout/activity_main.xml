@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="0dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:scrollbarStyle="insideOverlay"
+            android:scrollbars="vertical">
+
+            <Button
+                android:id="@+id/button_test_socket"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Test Socket"
+                android:textAllCaps="false" />
+
+            <Button
+                android:id="@+id/button_lessonUI"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="UI"
+                android:textAllCaps="false" />
+
+            <Button
+                android:id="@+id/button_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Layout"
+                android:textAllCaps="false" />
+
+            <Button
+                android:id="@+id/button_activity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Activity"
+                android:textAllCaps="false" />
+
+            <Button
+                android:id="@+id/button_callactivity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="CallPhone"
+                android:textAllCaps="false" />
+
+            <Button
+                android:id="@+id/button_browse"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Browse"
+                android:textAllCaps="false" />
+
+            <Button
+                android:id="@+id/button_sms"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SMS"
+                android:textAllCaps="false" />
+
+            <Button
+                android:id="@+id/button_bundledate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Send Data"
+                android:textAllCaps="false" />
+
+            <Button
+                android:id="@+id/button_head"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SetHeadImage"
+                android:textAllCaps="false" />
+
+            <Button
+                android:id="@+id/button_two"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Two Side"
+                android:textAllCaps="false" />
+
+            <Button
+                android:id="@+id/button_weight"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Test Weight"
+                android:textAllCaps="false" />
+
+            <Button
+                android:id="@+id/button_savefile"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Save File"
+                android:textAllCaps="false" />
+
+            <Button
+                android:id="@+id/button_savetomemory"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Save to Memory"
+                android:textAllCaps="false" />
+
+            <Button
+                android:id="@+id/button_sql_api"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SQL API" />
+
+            <Button
+                android:id="@+id/button_sql_adpter"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SQL Adapter"
+                android:textAllCaps="false" />
+
+            <Button
+                android:id="@+id/button_save_sms"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Save SMS"
+                android:textAllCaps="false" />
+
+            <Button
+                android:id="@+id/button_smsmonitor"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="SMS Monitor"
+                android:textAllCaps="false" />
+
+            <Button
+                android:id="@+id/button_broadcast"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Broadcast"
+                android:textAllCaps="false" />
+
+            <Button
+                android:id="@+id/button_lock"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="un-lock"
+                android:textAllCaps="false" />
+
+            <Button
+                android:id="@+id/button_three_bdc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="3"
+                android:textAllCaps="false" />
+        </LinearLayout>
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

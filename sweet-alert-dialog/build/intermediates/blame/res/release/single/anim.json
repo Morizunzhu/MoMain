@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\wu1ji\\Documents\\Mo\\Projects\\Android Studio\\MoMain\\sweet-alert-dialog\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\wu1ji\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.0.aar\\5deb4a54a199cf12fa8219e5da841735\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\wu1ji\\Documents\\Mo\\Projects\\Android Studio\\MoMain\\sweet-alert-dialog\\build\\intermediates\\res\\merged\\release\\anim\\modal_in.xml",
+        "source": "C:\\Users\\wu1ji\\Documents\\Mo\\Projects\\Android Studio\\MoMain\\sweet-alert-dialog\\src\\main\\res\\anim\\modal_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\wu1ji\\Documents\\Mo\\Projects\\Android Studio\\MoMain\\sweet-alert-dialog\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\wu1ji\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.0.aar\\5deb4a54a199cf12fa8219e5da841735\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\wu1ji\\Documents\\Mo\\Projects\\Android Studio\\MoMain\\sweet-alert-dialog\\build\\intermediates\\res\\merged\\release\\anim\\success_bow_roate.xml",
+        "source": "C:\\Users\\wu1ji\\Documents\\Mo\\Projects\\Android Studio\\MoMain\\sweet-alert-dialog\\src\\main\\res\\anim\\success_bow_roate.xml"
+    },
+    {
+        "merged": "C:\\Users\\wu1ji\\Documents\\Mo\\Projects\\Android Studio\\MoMain\\sweet-alert-dialog\\build\\intermediates\\res\\merged\\release\\anim\\modal_out.xml",
+        "source": "C:\\Users\\wu1ji\\Documents\\Mo\\Projects\\Android Studio\\MoMain\\sweet-alert-dialog\\src\\main\\res\\anim\\modal_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\wu1ji\\Documents\\Mo\\Projects\\Android Studio\\MoMain\\sweet-alert-dialog\\build\\intermediates\\res\\merged\\release\\anim\\success_mask_layout.xml",
+        "source": "C:\\Users\\wu1ji\\Documents\\Mo\\Projects\\Android Studio\\MoMain\\sweet-alert-dialog\\src\\main\\res\\anim\\success_mask_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\wu1ji\\Documents\\Mo\\Projects\\Android Studio\\MoMain\\sweet-alert-dialog\\build\\intermediates\\res\\merged\\release\\anim\\error_x_in.xml",
+        "source": "C:\\Users\\wu1ji\\Documents\\Mo\\Projects\\Android Studio\\MoMain\\sweet-alert-dialog\\src\\main\\res\\anim\\error_x_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\wu1ji\\Documents\\Mo\\Projects\\Android Studio\\MoMain\\sweet-alert-dialog\\build\\intermediates\\res\\merged\\release\\anim\\error_frame_in.xml",
+        "source": "C:\\Users\\wu1ji\\Documents\\Mo\\Projects\\Android Studio\\MoMain\\sweet-alert-dialog\\src\\main\\res\\anim\\error_frame_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\wu1ji\\Documents\\Mo\\Projects\\Android Studio\\MoMain\\sweet-alert-dialog\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\wu1ji\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.0.aar\\5deb4a54a199cf12fa8219e5da841735\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\wu1ji\\Documents\\Mo\\Projects\\Android Studio\\MoMain\\sweet-alert-dialog\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\wu1ji\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.0.aar\\5deb4a54a199cf12fa8219e5da841735\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\wu1ji\\Documents\\Mo\\Projects\\Android Studio\\MoMain\\sweet-alert-dialog\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\wu1ji\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.0.aar\\5deb4a54a199cf12fa8219e5da841735\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\wu1ji\\Documents\\Mo\\Projects\\Android Studio\\MoMain\\sweet-alert-dialog\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\wu1ji\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.0.aar\\5deb4a54a199cf12fa8219e5da841735\\res\\anim\\abc_slide_in_bottom.xml"
+    }
+]

@@ -1,0 +1,1 @@
+include ':app', ':lesson', ':sweet-alert-dialog', ':lesson_new'
